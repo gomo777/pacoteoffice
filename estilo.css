@@ -1,0 +1,35 @@
+.cabeçalho{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+
+body{
+    background-color:white;
+    text-align: center;
+    color:black;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.td{
+    background-color: #DE3B00;
+    color: white;
+    text-decoration: none;
+    border-radius: 8PX;  
+}
+
+
+
+.tam{
+    font-size: 30px;
+}
+
+.ocup{
+    text-align: center;
+    width: 70%;
+}
+
+.logos{
+    
+    justify-content: center;
+}
